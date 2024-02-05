@@ -1,1 +1,1 @@
-This is a recipe website, with this i will demonstrate my HTML skills
+This is a basic recipe website made for The Odin Project course
